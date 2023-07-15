@@ -1,2 +1,6 @@
-<h1>adsad to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="text-3xl font-bold">Stocks</h1>
+
+<ul>
+  <li>Planilha de posições</li>
+  <li>Planilha de proventos</li>
+</ul>
